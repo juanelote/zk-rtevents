@@ -1,0 +1,9 @@
+._*
+*~
+Thumbs.db
+.DS_Store
+.DS_Store?
+.Spotlight-V100
+.Trashes
+node_modules/
+package-lock.json
