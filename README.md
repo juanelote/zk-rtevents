@@ -36,10 +36,10 @@ zk.connect("10.0.0.12", 4370)
 
 | Method              | Description |
 | ------------------- | ----------- | 
-| connect(callback)   | Connect to ZK device. |
+| connect(_ip_, _port_)   | Connect to ZK device. |
 | disconnect()        | Disconnect from ZK device. |
 | enableEvents()      | Enable Real-time events on the ZK device. |
-| unlockDoor(seconds) | Unlock door for _n_ seconds. |
+| unlockDoor(_n_) | Unlock door for _n_ seconds. |
 
 ## Events
 
